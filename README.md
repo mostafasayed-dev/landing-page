@@ -3,11 +3,16 @@
 ## Table of Contents
 
 * [Instructions](#instructions)
+* [Development](#development)
+* [License](#license)
 
 ## Instructions
 
-The starter project has some HTML and CSS styling to display a static version of the Landing Page project. You'll need to convert this project from a static project to an interactive one. This will require modifying the HTML and CSS files, but primarily the JavaScript file.
+This is a multi-section landing page, with a dynamically updating navigational menu based on the amount of content that is added to the page.
 
-To get started, open `js/app.js` and start building out the app's functionality
 
-For specific, detailed instructions, look at the project instructions in the Udacity Classroom.
+## Development
+This landing page developed using HTML, CSS and Javascript.
+
+## License
+Copyright (c) 2021 Udacity & Mostafa Sayed.
